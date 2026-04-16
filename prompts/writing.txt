@@ -31,3 +31,4 @@ Return your answer in the following JSON format:
   "vocabulary": number,
   "structure": number,
   "feedback": "short and clear feedback for the student"
+}
